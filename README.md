@@ -1,0 +1,1 @@
+基于frankfuture的实时汇率API接口制作的LLM汇率查询助手
